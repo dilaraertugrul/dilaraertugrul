@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  🎓 2nd-year Computer Engineering student | 👩‍💻 Java & C# Developer  
+🎓 2nd-year Computer Engineering student | 👩‍💻 Java & C# Developer  
+  
 🌱 A software enthusiast who loves discovering new technologies
 </p>
 
