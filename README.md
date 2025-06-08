@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Dilara 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FxMmNydm1xdW4xaDgyY2ljc3ltajAwZzF3dHIwNGxrMmUzdWJhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif)" width="200"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FxMmNydm1xdW4xaDgyY2ljc3ltajAwZzF3dHIwNGxrMmUzdWJhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FxMmNydm1xdW4xaDgyY2ljc3ltajAwZzF3dHIwNGxrMmUzdWJhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif)" width="200"/>
 </p>
 
 <p align="center">
