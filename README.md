@@ -1,23 +1,23 @@
-<h1 align="center">Merhaba, ben Dilara 👋</h1>
+<h1 align="center">👋 Hi, I'm Dilara</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FxMmNydm1xdW4xaDgyY2ljc3ltajAwZzF3dHIwNGxrMmUzdWJhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif" width="400"/>
 </p>
 
 <p align="center">
-  🎓 Bilgisayar Mühendisliği 2. sınıf öğrencisi | 👩‍💻 Java & C# geliştiricisi <br>
-  🌱 Yeni teknolojileri keşfetmeyi seven bir yazılım meraklısı
+  🎓 2nd-year Computer Engineering student | 👩‍💻 Java & C# Developer  
+🌱 A software enthusiast who loves discovering new technologies
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-- 🎓 Fırat Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim  
-- 💡 Java ve C# ile masaüstü ve konsol tabanlı projeler geliştiriyorum  
-- 💬 Yazılım öğrenme yolculuğumu GitHub’da belgelemeye çalışıyorum  
-- 🌍 Huawei Student Developers topluluğunda aktif görev alıyorum  
-- 🎯 Gelecekte mobil geliştirme ve yapay zeka alanında uzmanlaşmak istiyorum
+🎓 I'm a 2nd-year Computer Engineering student at Fırat University  
+💡 I develop desktop and console-based projects using Java and C#  
+💬 I try to document my software learning journey on GitHub  
+🌍 Actively involved in the Huawei Student Developers community  
+🎯 I aim to specialize in mobile development and artificial intelligence in the future
 
 ---
 
@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  Yazmak, üretmek ve paylaşmak güzel 🌟 GitHub’da gelişmeye devam ediyorum 🚀
+  ✨ Writing, creating, and sharing is beautiful — I'm continuing to grow on GitHub 🚀
 </p>
