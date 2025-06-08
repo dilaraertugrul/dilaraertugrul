@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Technologies I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Contact Me
 
 <p>
   <a href="mailto:dilaraertugrul05@.com"><img src="https://img.shields.io/badge/e--posta-D9B600?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Statistics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dilaraertugrul&show_icons=true&theme=tokyonight" width="48%"/>
