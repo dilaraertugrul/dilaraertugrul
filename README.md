@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-🎓 I'm a 2nd-year Computer Engineering student at Fırat University  
+🎓 I'm a 3nd-year Computer Engineering student at Fırat University  
 💡 I develop desktop and console-based projects using Java and C#  
 💬 I try to document my software learning journey on GitHub  
 🌍 Actively involved in the Huawei Student Developers community  
