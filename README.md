@@ -1,9 +1,3 @@
-<h1 align="center">👋 Hi, I'm Dilara</h1>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FxMmNydm1xdW4xaDgyY2ljc3ltajAwZzF3dHIwNGxrMmUzdWJhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif" width="400"/>
-</p>
-
 <p align="center">
  🎓 3nd-year Computer Engineering student | 👩‍💻 Java & C# Developer  </p>
 <p align="center"> 🌱 A software enthusiast who loves discovering new technologies
