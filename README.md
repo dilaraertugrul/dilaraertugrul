@@ -1,5 +1,5 @@
 <p align="center">
- 🎓 3nd-year Computer Engineering student | 👩‍💻 Java & C# Developer  </p>
+ 🎓 4nd-year Computer Engineering student | 👩‍💻 Java & C# Developer  </p>
 <p align="center"> 🌱 A software enthusiast who loves discovering new technologies
 </p>
 
