@@ -1,13 +1,11 @@
 <p align="center">
- 🎓 4nd-year Computer Engineering student | 👩‍💻 Java & C# Developer  </p>
-<p align="center"> 🌱 A software enthusiast who loves discovering new technologies
-</p>
+ 🎓 4nd-year Computer Engineering student | 👩‍💻 </p>
 
 ---
 
 ### 🚀 About Me
 
-🎓 I'm a 3nd-year Computer Engineering student at Fırat University  
+🎓 I'm a 4nd-year Computer Engineering student at Fırat University  
 💡 I develop desktop and console-based projects using Java and C#  
 💬 I try to document my software learning journey on GitHub  
 🌍 Actively involved in the Huawei Student Developers community  
